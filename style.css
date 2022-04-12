@@ -1,0 +1,11 @@
+.overall {
+    display: flex;
+    width: 1000px;
+    height: 1000px;
+    border: 50px solid red;
+    margin: auto;
+    flex-direction: column;
+}
+.rows {
+    background-color: blue;
+}
