@@ -7,3 +7,17 @@
     flex-direction: column;
     
 }
+.Etch {
+    margin:auto;
+    width:fit-content;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.reset {
+    font-size: large;
+    position: relative;
+    left: 600px;
+    bottom: 600px;
+
+}
